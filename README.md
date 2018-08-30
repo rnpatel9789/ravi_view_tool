@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RaviViewTool::Renderer.copyright 'Ravi Narayan Patel', 'All Rights Reversed.'
+```
 
 ## Development
 
